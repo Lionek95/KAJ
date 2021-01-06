@@ -327,21 +327,21 @@ ul.offer_list li > p > span {
   }
 
   .baner-box h1 {
-    font-size: 34px;
+    font-size: 34px !important;
   }
 
   .baner-box h2 {
-    font-size: 28px;
+    font-size: 28px !important;
   }
 
   h3 {
     padding: 30px;
-    font-size: 14px;
+    font-size: 24px !important;
   }
 
   p {
     padding: 20px 30px;
-    font-size: 20px;
+    font-size: 22px !important;
   }
 
   ul#cooperation {
@@ -376,7 +376,7 @@ ul.offer_list li > p > span {
   li.left p,
   li.right p {
 	text-align: center !important;
-	font-size: 20px;
+	font-size: 20px !important;
   }
 
  ul.offer_list {
@@ -398,11 +398,11 @@ ul.offer_list li > p > span {
  }
 
 ul.offer_list li > p {
-  font-size: 28px;
+  font-size: 28px !important;
  }
 
 ul.offer_list li > p > span {
-  font-size: 22px;
+  font-size: 24px !important;
  }
 
  table tr {
@@ -437,6 +437,6 @@ ul.offer_list li > p > span {
  }
 
  .wrap h3 {
-   font-size: 40px;
+   font-size: 40px !important;
  }
 }
