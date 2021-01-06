@@ -383,6 +383,7 @@ ul.offer_list li > p > span {
   flex-wrap: wrap !important;
   flex-direction: column !important;
   align-content: center !important;
+  margin-left: 18%;
  }
 
  ul.offer_list li {
