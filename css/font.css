@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	font-size:16px;
+	font-weight:400;
+	line-height:145%;
+	color:rgb(50,50,50);
+}
+
+p {
+	display:block;
+	margin:0;
+	padding:10px;	
+	text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	display:block;
+	margin:0;
+	padding:0;	
+	font-weight:normal;
+}
+
+h1, h2 {
+	line-height:125%;
+	color:rgb(255,255,255);
+	font-size:40px;
+	padding-bottom:20px;
+}
+
+h1 {
+	line-height:110%;
+	margin-bottom:20px;
+	border-bottom:1px solid rgba(255,255,255,.6);
+}
+
+h2 {
+	font-size:24px;	
+	padding-bottom:50px;
+	padding-bottom:0;
+}
+
+h3 {
+	font-size:23px;
+	padding:0 0 40px;
+	text-align:center;	
+}
+
+a {
+	text-decoration:none;
+	color:rgb(80,80,80);
+}
+
+#hamburger a {
+	font-size: 300%;
+	display: none;
+}
+
+a.button {
+	background-color:rgb(245,130,35);
+	color:rgb(255,255,255);
+	padding:12px 40px;
+	border-radius:30px;
+}
+
+i {
+	margin:0 5px 0 0;	
+}
+
+.footer {
+	font-size:14px;	
+	color:rgb(160,160,160);
+
+}
+
+.full.separator {
+	color:rgb(255,255,255);
+	margin:-30px 0;	
+}
+
+.full.separator p {
+	transform:skew(0deg, 2deg) ;	
+}
+

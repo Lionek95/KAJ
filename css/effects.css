@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bg_banner, .bg_banner_small {
+	background-image:url(../images/baner.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:right;
+	background-color:rgb(0,0,0);
+	height:500px;
+	border-bottom:5px solid rgb(245,130,35);
+}
+
+.bg_banner_small {
+	height:250px;
+	background-position:right;
+}
+
+.promocja {
+	background-image:url(../images/baner-promocja.jpg);	
+	background-position:center;
+}
+
+.bg_about {
+	padding:30px 0;
+	background-color:rgb(245,245,245);	
+}
+
+.full.padding_h {
+	padding:60px 0;
+}
+
+.full.footer {
+	background-color:rgb(60,60,60);
+	padding:30px 0;	
+}
+
+.full.separator {
+	padding:60px 0;
+	background-color:rgb(245,130,35);
+}
