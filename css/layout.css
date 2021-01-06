@@ -341,7 +341,7 @@ ul.offer_list li > p > span {
 
   p {
     padding: 20px 30px;
-    font-size: 20px !important;
+    font-size: 20px;
   }
 
   ul#cooperation {
@@ -383,7 +383,7 @@ ul.offer_list li > p > span {
   flex-wrap: wrap !important;
   flex-direction: column !important;
   align-content: center !important;
-  margin-left: 18%;
+  margin-left: 18% !important;
  }
 
  ul.offer_list li {
