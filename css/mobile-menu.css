@@ -82,7 +82,6 @@
     transform: rotate(-45deg) translate(7px, -7px);
   }
   ul#nav li {
-    border-bottom: 2px solid #666 !important;
     margin-top: 60px;
   }
   ul#nav li, ul#languages li {
@@ -119,7 +118,6 @@
     font-size: 3em;
   }
   #overlay ul li a:hover {
-    color: #fff;
-    border-bottom: 2px solid #f58223 !important;
+    color: #f58223;
   }
 }
