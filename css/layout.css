@@ -72,7 +72,7 @@ body {
   border-radius: 0 0 5px 5px;
 }
 
-#hamburger {
+input[type="checkbox" i] {
   display: none;
 }
 
