@@ -440,4 +440,8 @@ ul.offer_list li > p > span {
  .wrap h3 {
    font-size: 40px !important;
  }
+
+ul#nav li {
+    border-bottom: 2px solid #666 !important;
+  }
 }
